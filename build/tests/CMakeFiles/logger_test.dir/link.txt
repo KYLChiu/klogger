@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/logger_test.dir/logger_test.cpp.o -o logger_test  ../src/klogger/libklogger.a ../lib/libgtest_main.a ../lib/libgtest.a 

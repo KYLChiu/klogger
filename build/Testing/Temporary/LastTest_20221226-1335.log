@@ -1,0 +1,18 @@
+Start testing: Dec 26 22:04 HKT
+----------------------------------------------------------
+1/1 Testing: logger_test
+1/1 Test: logger_test
+Command: "/home/kelvin/dev/logger/build/logger_test"
+Directory: /home/kelvin/dev/logger/build
+"logger_test" start time: Dec 26 22:04 HKT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"logger_test" end time: Dec 26 22:04 HKT
+"logger_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 26 22:04 HKT

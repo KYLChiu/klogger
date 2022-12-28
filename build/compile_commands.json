@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/kelvin/dev/logger/build/tests",
+  "command": "/usr/bin/g++  -I/home/kelvin/dev/logger/tests/src -I/home/kelvin/dev/logger/src/klogger -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/include -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++17 -o CMakeFiles/logger_test.dir/logger_test.cpp.o -c /home/kelvin/dev/logger/tests/logger_test.cpp",
+  "file": "/home/kelvin/dev/logger/tests/logger_test.cpp"
+},
+{
+  "directory": "/home/kelvin/dev/logger/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -I/home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/include -I/home/kelvin/dev/logger/build/_deps/googletest-src/googlemock -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/include -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/kelvin/dev/logger/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/g++  -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/include -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googlemock -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/include -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/kelvin/dev/logger/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/kelvin/dev/logger/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -I/home/kelvin/dev/logger/build/_deps/googletest-src/googletest/include -I/home/kelvin/dev/logger/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/kelvin/dev/logger/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/kelvin/dev/logger/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/g++  -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/include -isystem /home/kelvin/dev/logger/build/_deps/googletest-src/googletest -O3 -DNDEBUG -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/kelvin/dev/logger/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/kelvin/dev/logger/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
