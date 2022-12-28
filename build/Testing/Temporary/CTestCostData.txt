@@ -1,4 +1,0 @@
-logger_test 18 0.00161855
-logger_test_mt 13 0.00140474
-logger_gtest 6 0.0018288
----

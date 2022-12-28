@@ -1,1 +1,0 @@
-/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/logger_test_mt.dir/test/logger_test_mt.cpp.o -o logger_test_mt 
